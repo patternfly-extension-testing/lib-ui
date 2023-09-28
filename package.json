@@ -1,12 +1,12 @@
 {
-  "name": "@migtools/lib-ui",
+  "name": "@pf-consumer-testing/lib-ui",
   "version": "1.0.0",
   "main": "dist/index.js",
   "module": "dist/index.es.js",
   "files": [
     "dist"
   ],
-  "repository": "https://github.com/migtools/lib-ui.git",
+  "repository": "https://github.com/patternfly-extension-testing/lib-ui.git",
   "publishConfig": {
     "access": "public",
     "branches": [
