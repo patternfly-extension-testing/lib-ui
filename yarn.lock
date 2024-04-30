@@ -2036,44 +2036,44 @@
   dependencies:
     "@octokit/openapi-types" "^18.0.0"
 
-"@patternfly/react-core@^5.1.1-prerelease.23":
-  version "5.1.1-prerelease.23"
-  resolved "https://registry.yarnpkg.com/@patternfly/react-core/-/react-core-5.1.1-prerelease.23.tgz#25e8c1dc6615ece44cc7da3637cb051e83271f0f"
-  integrity sha512-bI9y2SVxfGOy/Sw+Ko0/akcpA2qpvqSfFxrIa2IxGsMMHHilc8xceLGNTaLy9jVyhwuUSeqyHgu8PK2ali7p6A==
+"@patternfly/react-core@^5.4.0-prerelease.8":
+  version "5.4.0-prerelease.8"
+  resolved "https://registry.yarnpkg.com/@patternfly/react-core/-/react-core-5.4.0-prerelease.8.tgz#ac60c6f5139dbf1fa78f2cd15179291bf4ea0fb1"
+  integrity sha512-DN4nUb/Uucu92Y2+/7lfyu9hwVlDl8aRsowWMbwnQ3GDRLZKgZM+Tbtx1cCjlSD6sCEX2sma2Ei6IatLZBzY/g==
   dependencies:
-    "@patternfly/react-icons" "^5.1.1-prerelease.8"
-    "@patternfly/react-styles" "^5.1.1-prerelease.8"
-    "@patternfly/react-tokens" "^5.1.1-prerelease.8"
+    "@patternfly/react-icons" "^5.4.0-prerelease.2"
+    "@patternfly/react-styles" "^5.4.0-prerelease.2"
+    "@patternfly/react-tokens" "^5.4.0-prerelease.2"
     focus-trap "7.5.2"
     react-dropzone "^14.2.3"
     tslib "^2.5.0"
 
-"@patternfly/react-icons@^5.1.1-prerelease.8":
-  version "5.1.1-prerelease.8"
-  resolved "https://registry.yarnpkg.com/@patternfly/react-icons/-/react-icons-5.1.1-prerelease.8.tgz#2da5f5b9ce5e4cb5d4c475f8c4a777968b813892"
-  integrity sha512-B+dUbiaSGO2ABDS2gJki91pbUfu8t4viNVQE7beiENaW3UZ2gQ0hJ+2p1nWnr6UEgOA/fd0S99ZgpbU/O/z8Lg==
+"@patternfly/react-icons@^5.4.0-prerelease.2":
+  version "5.4.0-prerelease.2"
+  resolved "https://registry.yarnpkg.com/@patternfly/react-icons/-/react-icons-5.4.0-prerelease.2.tgz#7ed5a6a4585251483081cfecd6f9e3ff42ff4b89"
+  integrity sha512-USRCGJkYiBRDF2x9DnQisqm0BL5xj5CWcyVZ4H8cJGn/1Ju6DPYZSkgFl5CIJgOK6jxRN8XFofxi9U1vihedfA==
 
-"@patternfly/react-styles@^5.1.1-prerelease.8":
-  version "5.1.1-prerelease.8"
-  resolved "https://registry.yarnpkg.com/@patternfly/react-styles/-/react-styles-5.1.1-prerelease.8.tgz#01bc582c23fc069f87bc6a8408cfb9d0f84bc87d"
-  integrity sha512-YCA+j9fhgukiwal3T5LGIQBzKFpl3xjbh3/7EPoGRTuIwFEMhyA1yUR7ktGkFvDUrrDEKACGf435quDCDfvMRQ==
+"@patternfly/react-styles@^5.4.0-prerelease.2":
+  version "5.4.0-prerelease.2"
+  resolved "https://registry.yarnpkg.com/@patternfly/react-styles/-/react-styles-5.4.0-prerelease.2.tgz#f9057c9922a3fe8f385adbd912a0eedd1e5afeb9"
+  integrity sha512-XrMussJ1KKxvHLgJkI28y5nIRy3sFOGiMzvE3GDn+AQY7gsQHBNankUWFUcemxoJYB9xFA/yeJ3e+MztyKs5RQ==
 
-"@patternfly/react-table@^5.1.1-prerelease.23":
-  version "5.1.1-prerelease.23"
-  resolved "https://registry.yarnpkg.com/@patternfly/react-table/-/react-table-5.1.1-prerelease.23.tgz#fa9777fddc7a3d3e61c49200be8a6f4ab1cafea3"
-  integrity sha512-+0gsv4tWcoCA7uDDbPGGRu+qc0h1ObFzslirZXsPDaFBYAlFBOjUAdEAwL9x4PfDbMhzSKIZ1CDnuDgyLtQ1Cg==
+"@patternfly/react-table@^5.4.0-prerelease.8":
+  version "5.4.0-prerelease.8"
+  resolved "https://registry.yarnpkg.com/@patternfly/react-table/-/react-table-5.4.0-prerelease.8.tgz#b7bafe63ef4ee1f8c7577ed76375d288f100e501"
+  integrity sha512-sGR9FyaQXipaSdgGEylpthZr2dVh98yt+rQM1JXOGe8nvLRnVaMD2rXx2+HzBnNoqKluBIf/9k2JWaBMCgHRQA==
   dependencies:
-    "@patternfly/react-core" "^5.1.1-prerelease.23"
-    "@patternfly/react-icons" "^5.1.1-prerelease.8"
-    "@patternfly/react-styles" "^5.1.1-prerelease.8"
-    "@patternfly/react-tokens" "^5.1.1-prerelease.8"
+    "@patternfly/react-core" "^5.4.0-prerelease.8"
+    "@patternfly/react-icons" "^5.4.0-prerelease.2"
+    "@patternfly/react-styles" "^5.4.0-prerelease.2"
+    "@patternfly/react-tokens" "^5.4.0-prerelease.2"
     lodash "^4.17.19"
     tslib "^2.5.0"
 
-"@patternfly/react-tokens@^5.1.1-prerelease.8":
-  version "5.1.1-prerelease.8"
-  resolved "https://registry.yarnpkg.com/@patternfly/react-tokens/-/react-tokens-5.1.1-prerelease.8.tgz#4178a5e1fa8f1b335b39d81f994fe7ea37d8c202"
-  integrity sha512-wDhBVuwP3ESz9pTOvggt4Gu1NwvganGTRKMp3uhx5TGvmQAlSx3SgtK2Dr/jXzlB1G3VW/T0P/53qCpUTePz3w==
+"@patternfly/react-tokens@^5.4.0-prerelease.2":
+  version "5.4.0-prerelease.2"
+  resolved "https://registry.yarnpkg.com/@patternfly/react-tokens/-/react-tokens-5.4.0-prerelease.2.tgz#f1a8f2a55fbc799a2cb8c28852bffe344ea1f2f2"
+  integrity sha512-toGZxFiZ0/OdqkTP04SP8muTipL3sfs0N9Fn76trRgQzfvYxKvIOEd/qrzf1I0ZRtSnkgVn2yrsspELyKX+AZQ==
 
 "@pkgjs/parseargs@^0.11.0":
   version "0.11.0"
@@ -13852,7 +13852,16 @@ string-length@^4.0.1:
     char-regex "^1.0.2"
     strip-ansi "^6.0.0"
 
-"string-width-cjs@npm:string-width@^4.2.0", "string-width@^1.0.2 || 2 || 3 || 4", string-width@^4.0.0, string-width@^4.1.0, string-width@^4.2.0, string-width@^4.2.2, string-width@^4.2.3:
+"string-width-cjs@npm:string-width@^4.2.0":
+  version "4.2.3"
+  resolved "https://registry.yarnpkg.com/string-width/-/string-width-4.2.3.tgz#269c7117d27b05ad2e536830a8ec895ef9c6d010"
+  integrity sha512-wKyQRQpjJ0sIp62ErSZdGsjMJWsap5oRNihHhu6G7JVO/9jIB6UyevL+tXuOqrng8j/cxKTWyWUwvSTriiZz/g==
+  dependencies:
+    emoji-regex "^8.0.0"
+    is-fullwidth-code-point "^3.0.0"
+    strip-ansi "^6.0.1"
+
+"string-width@^1.0.2 || 2 || 3 || 4", string-width@^4.0.0, string-width@^4.1.0, string-width@^4.2.0, string-width@^4.2.2, string-width@^4.2.3:
   version "4.2.3"
   resolved "https://registry.yarnpkg.com/string-width/-/string-width-4.2.3.tgz#269c7117d27b05ad2e536830a8ec895ef9c6d010"
   integrity sha512-wKyQRQpjJ0sIp62ErSZdGsjMJWsap5oRNihHhu6G7JVO/9jIB6UyevL+tXuOqrng8j/cxKTWyWUwvSTriiZz/g==
@@ -13943,7 +13952,7 @@ string_decoder@~1.1.1:
   dependencies:
     safe-buffer "~5.1.0"
 
-"strip-ansi-cjs@npm:strip-ansi@^6.0.1", strip-ansi@^6.0.0, strip-ansi@^6.0.1:
+"strip-ansi-cjs@npm:strip-ansi@^6.0.1":
   version "6.0.1"
   resolved "https://registry.yarnpkg.com/strip-ansi/-/strip-ansi-6.0.1.tgz#9e26c63d30f53443e9489495b2105d37b67a85d9"
   integrity sha512-Y38VPSHcqkFrCpFnQ9vuSXmquuv5oXOKpGeT6aGrr3o3Gc9AlVa6JBfUSOCnbxGGZF+/0ooI7KrPuUSztUdU5A==
@@ -13956,6 +13965,13 @@ strip-ansi@^3.0.1:
   integrity sha512-VhumSSbBqDTP8p2ZLKj40UjBCV4+v8bUSEpUb4KjRgWk9pbqGF4REFj6KEagidb2f/M6AzC0EmFyDNGaw9OCzg==
   dependencies:
     ansi-regex "^2.0.0"
+
+strip-ansi@^6.0.0, strip-ansi@^6.0.1:
+  version "6.0.1"
+  resolved "https://registry.yarnpkg.com/strip-ansi/-/strip-ansi-6.0.1.tgz#9e26c63d30f53443e9489495b2105d37b67a85d9"
+  integrity sha512-Y38VPSHcqkFrCpFnQ9vuSXmquuv5oXOKpGeT6aGrr3o3Gc9AlVa6JBfUSOCnbxGGZF+/0ooI7KrPuUSztUdU5A==
+  dependencies:
+    ansi-regex "^5.0.1"
 
 strip-ansi@^7.0.1:
   version "7.1.0"
@@ -15319,7 +15335,7 @@ worker-rpc@^0.1.0:
   dependencies:
     microevent.ts "~0.1.1"
 
-"wrap-ansi-cjs@npm:wrap-ansi@^7.0.0", wrap-ansi@^7.0.0:
+"wrap-ansi-cjs@npm:wrap-ansi@^7.0.0":
   version "7.0.0"
   resolved "https://registry.yarnpkg.com/wrap-ansi/-/wrap-ansi-7.0.0.tgz#67e145cff510a6a6984bdf1152911d69d2eb9e43"
   integrity sha512-YVGIj2kamLSTxw6NsZjoBxfSwsn0ycdesmc4p+Q21c5zPuZ1pl+NfxVdxPtdHvmNVOQ6XSYG4AUtyt/Fi7D16Q==
@@ -15332,6 +15348,15 @@ wrap-ansi@^6.2.0:
   version "6.2.0"
   resolved "https://registry.yarnpkg.com/wrap-ansi/-/wrap-ansi-6.2.0.tgz#e9393ba07102e6c91a3b221478f0257cd2856e53"
   integrity sha512-r6lPcBGxZXlIcymEu7InxDMhdW0KDxpLgoFLcguasxCaJ/SOIZwINatK9KY/tf+ZrlywOKU0UDj3ATXUBfxJXA==
+  dependencies:
+    ansi-styles "^4.0.0"
+    string-width "^4.1.0"
+    strip-ansi "^6.0.0"
+
+wrap-ansi@^7.0.0:
+  version "7.0.0"
+  resolved "https://registry.yarnpkg.com/wrap-ansi/-/wrap-ansi-7.0.0.tgz#67e145cff510a6a6984bdf1152911d69d2eb9e43"
+  integrity sha512-YVGIj2kamLSTxw6NsZjoBxfSwsn0ycdesmc4p+Q21c5zPuZ1pl+NfxVdxPtdHvmNVOQ6XSYG4AUtyt/Fi7D16Q==
   dependencies:
     ansi-styles "^4.0.0"
     string-width "^4.1.0"
